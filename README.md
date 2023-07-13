@@ -2,7 +2,7 @@
 <h2>A Frontend Web developer from India 🌟</h2>
 
 # 💫 About Me:
-🔭 I’m currently working on fetching the level that Conqueror up my skills to break the limitations of learning<br>🌱 I’m currently learning ReactJs , Tailwind css<br>👯 I’m looking to collaborate on building challenging stuff<br>💬 Ask me about current trends in India , technology & tech gadgets<br>⚡ Fun fact is world's most popular language JavaScript was created in 10 days only
+🔭 I’m currently working on fetching the level that Conqueror up my skills to break the limitations of learning<br>🌱 I’m currently learning ReactJs , Tailwind css<br>👯 I’m looking to collaborate on building challenging stuff<br>💬 Ask me about current trends in India , technology & tech gadgets<br>
 
 
 ## 🌐 Socials:
