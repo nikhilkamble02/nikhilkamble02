@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kamble 🚀</h1>
-<h2 align="center">A Frontend Web Developer from India 💟</h2>
+<h2 align="left">Welcome to Nikhil Kamble's GitHub Profile 🚀</h2>
 
 
 
 
-
-<h3 align="center">Currently I'm diving deep into ReactJs and Redux</h3>  <br/> <br/>
+<p align="left">I'm Frontend Web Developer</p>  
+<p align="left">Currently diving deep into ReactJs and Redux</p>  <br/>
 <img alt="Coder GIF" height=250 width=350 align="right"src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 <h3 align="left"> 🌐 Social Presence :</h3>
