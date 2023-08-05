@@ -1,24 +1,20 @@
-<h2 align="center">Welcome to Nikhil Kamble's GitHub Profile 🚀</h2>
+<h2 align="left">Welcome to Nikhil Kamble's GitHub Profile 🚀</h2>
+<p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> </p>
+<h3 align="left">I'm Frontend Web Developer</h3>
+<h4 align="left">Currently diving deep into ReactJs and Redux</h4>  
 
 
 
 
-<h3 align="center">I'm Frontend Web Developer</h3>
-<h4 align="center">Currently diving deep into ReactJs and Redux</h4>  
-<div align="center">
- <img alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> 
-</div>
-
-
- <h3 align="center"> 🌐 Social Presence :</h3>
-<p align="center">
- <a href="https://linkedin.com/in/nikhilkamble-" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkamble-" height="30" width="40" /></a>
-<a href="https://twitter.com/nikhil_7378" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhil_7378" height="30" width="40" /></a>
-<a href="https://medium.com/@kamblenikhil7378" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamblenikhil7378" height="30" width="40" /></a>
+ <h3 align="left"> 🌐 Social Presence :</h3>
+<p align="left">
+ <a href="https://linkedin.com/in/nikhilkamble-" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilkamble-" height="30" width="40" /></a>
+<a href="https://twitter.com/nikhil_7378" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhil_7378" height="30" width="40" /></a>
+<a href="https://medium.com/@kamblenikhil7378" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamblenikhil7378" height="30" width="40" /></a>
 </p> <br/>
 
-<h3 align="center"> 💻 Tech Stacks :</h3>
-<p align="center">
+<h3 align="left"> 💻 Tech Stacks :</h3>
+<p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -35,7 +31,7 @@
 </p>
 
 # 
-<h3 align="center"> 📊 GitHub Stats:</h3>
+<h3 align="left"> 📊 GitHub Stats:</h3>
 
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast" alt="prathambhalke" /></div>
-<div align="center"><p > <img src="https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkamble02" /> </p></div>
+<div align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast" alt="prathambhalke" /></div>
+<div align="left"><p > <img src="https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkamble02" /> </p></div>
