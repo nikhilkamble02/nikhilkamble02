@@ -35,5 +35,5 @@
 # 
 <h3 align="left"> 📊 GitHub Stats:</h3>
 
-<div align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast" alt="prathambhalke" /></div>
+<div align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast" alt="nikhilkamble02" /></div>
 <div align="left"><p > <img src="https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkamble02" /> </p></div>
