@@ -12,15 +12,17 @@ I'm a Frontend Web Developer from India 🇮🇳.
 - [Medium](https://medium.com/@kamblenikhil7378)
 
 ## 💻 Tech Stacks:
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org/)
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3schools.com/css/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Bootstrap](https://getbootstrap.com)
-- [Figma](https://www.figma.com/)
-- [Photoshop](https://www.photoshop.com/en)
-- [Git](https://git-scm.com/)
+<ul style="list-style-type:none; display:flex; flex-wrap:wrap; padding:0;">
+  <li style="margin-right: 10px;">JavaScript</li>
+  <li style="margin-right: 10px;">React</li>
+  <li style="margin-right: 10px;">HTML5</li>
+  <li style="margin-right: 10px;">CSS3</li>
+  <li style="margin-right: 10px;">Tailwind CSS</li>
+  <li style="margin-right: 10px;">Bootstrap</li>
+  <li style="margin-right: 10px;">Figma</li>
+  <li style="margin-right: 10px;">Photoshop</li>
+  <li>Git</li>
+</ul>
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
