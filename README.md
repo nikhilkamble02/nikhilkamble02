@@ -1,10 +1,35 @@
-# Hello! 👋🏼 I'm Nikhil Kamble 🚀
+# Hello! 👋🏼 I'm Nikhil 🚀
 
 ## About Me
-I'm a Frontend Web Developer from India 🇮🇳.
+- I'm a Frontend Web Developer from India exploring the deep ocean of Web  <br/>
+- Ask me about Web development<br/>
+- I regularly write blogs on <a href="https://medium.com/@kamblenikhil7378">Medium</a>.
 
 
-  🌐 Social Presence:                                                     
+
+<h2> 💻 Proficient In </h2>
+<table>
+  <tr>
+    <td>&#8226; JavaScript</td>
+    <td>&#8226; React</td>
+    <td>&#8226; HTML5</td>
+  </tr>
+  <tr>
+    <td>&#8226; CSS3</td>
+    <td>&#8226; Tailwind CSS</td>
+    <td>&#8226; Bootstrap</td>
+  </tr>
+  <tr>
+    <td>&#8226; Figma</td>
+    <td>&#8226; Photoshop</td>
+    <td>&#8226; Git</td>
+  </tr>
+</table>
+
+
+
+  
+  🌐 Engage with me:                                                     
 - [LinkedIn](https://linkedin.com/in/nikhilkamble-)
 - [Twitter](https://twitter.com/nikhil_7378)                                                
 - [Medium](https://medium.com/@kamblenikhil7378)                                                 
@@ -12,16 +37,6 @@ I'm a Frontend Web Developer from India 🇮🇳.
 
 
 
-## 💻 Tech Stacks:
-- JavaScript
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Figma
-- Photoshop
-- Git
 
   
 📊 GitHub Stats:     
