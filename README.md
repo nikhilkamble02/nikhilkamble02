@@ -2,6 +2,12 @@
 
 ## About Me
 I'm a Frontend Web Developer from India 🇮🇳.
+<div align="right">
+  
+  ## 📊 GitHub Stats:
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
+
+</div>
 
 ## 🌐 Social Presence:
 - [LinkedIn](https://linkedin.com/in/nikhilkamble-)
@@ -19,11 +25,6 @@ I'm a Frontend Web Developer from India 🇮🇳.
 - Photoshop
 - Git
 
-<div align="right">
-  
-  ## 📊 GitHub Stats:
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
 
-</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat)
