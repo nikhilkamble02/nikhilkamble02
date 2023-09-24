@@ -11,6 +11,9 @@ I'm a Frontend Web Developer from India 🇮🇳.
 - [Twitter](https://twitter.com/nikhil_7378)
 - [Medium](https://medium.com/@kamblenikhil7378)
 
+## 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
+
 ## 💻 Tech Stacks:
 - JavaScript
 - React
@@ -22,7 +25,5 @@ I'm a Frontend Web Developer from India 🇮🇳.
 - Photoshop
 - Git
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhilkamble02&label=Profile%20views&color=0e75b6&style=flat)
