@@ -6,21 +6,21 @@
 ## About Me
 I'm a Frontend Web Developer from India 🇮🇳.
 
-## 🌐 Social Presence
-- [LinkedIn](https://linkedin.com/in/nikhilkamble-)
-- [Twitter](https://twitter.com/nikhil_7378)
-- [Medium](https://medium.com/@kamblenikhil7378)
+## 🌐 Social Presence:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/nikhilkamble-)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/nikhil_7378)
+[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@kamblenikhil7378)
 
-## 💻 Tech Stacks
-- JavaScript
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Figma
-- Photoshop
-- Git
+## 💻 Tech Stacks:
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilkamble02&theme=highcontrast)
