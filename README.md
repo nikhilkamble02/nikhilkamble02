@@ -12,16 +12,22 @@
   <tr>
     <td>&#8226; JavaScript</td>
     <td>&#8226; React</td>
-    <td>&#8226; HTML5</td>
+    <td>&#8226; Redux</td>
   </tr>
   <tr>
+    <td>&#8226; HTML5</td>
     <td>&#8226; CSS3</td>
     <td>&#8226; Tailwind CSS</td>
-    <td>&#8226; Bootstrap</td>
+  
   </tr>
   <tr>
+      <td>&#8226; Bootstrap</td>
+    <td>&#8226; Material UI</td>
     <td>&#8226; Figma</td>
-    <td>&#8226; Photoshop</td>
+   
+  
+  </tr>
+    <tr>
     <td>&#8226; Git</td>
   </tr>
 </table>
