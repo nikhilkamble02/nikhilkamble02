@@ -1,4 +1,4 @@
-# Hello! 👋🏼 I'm Nikhil 🚀
+# Hello!  I'm Nikhil 
 
 ## About Me
 - I'm a Frontend Web Developer from India exploring the deep ocean of Web  <br/>
