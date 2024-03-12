@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">• I'm a Frontend Web Developer from India exploring the deep ocean of Web.<br><br>• Currently Exploring  MERN Technologies 💻<br><br>• Ask me about Web Development.<br><br>• I regularly write tech blogs on <a href="https://medium.com/@kamblenikhil7378" >Medium</a>.<br><br>• Read my latest blog <a href="https://medium.com/@kamblenikhil7378/higher-order-array-methods-in-javascript-787e2e70a870">here</a>.  <br><br>• Reach out me : <a href="mailto:nikhilk7214@gmail.com">nikhilk7214@gmail.com</a> </h3>
+<h3 align="left">• I'm a Frontend Web Developer from India exploring the deep ocean of Web.<br><br>• Currently Exploring  MERN Technologies 💻<br>• Ask me about Web Development.<br>• I regularly write tech blogs on <a href="https://medium.com/@kamblenikhil7378" >Medium</a>.<br>• Read my latest blog <a href="https://medium.com/@kamblenikhil7378/higher-order-array-methods-in-javascript-787e2e70a870">here</a>.  <br>• Reach out me : <a href="mailto:nikhilk7214@gmail.com">nikhilk7214@gmail.com</a> </h3>
 
 ###
 
