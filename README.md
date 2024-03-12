@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a Frontend Web Developer from India exploring the deep ocean of Web.<br><br>Ask me about Latest Tech Innovations.<br><br>I regularly write tech blogs on Medium.<br><br>Currently Exploring  MERN Technologies 💻</h4>
+<h3 align="left">I'm a Frontend Web Developer from India exploring the deep ocean of Web.<br><br>Ask me about Latest Tech Innovations.<br><br>I regularly write tech blogs on Medium.<br><br>Currently Exploring  MERN Technologies 💻</h3>
 
 ###
 
@@ -71,7 +71,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nikhilkamble-/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://twitter.com/Nikhil_7378" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
