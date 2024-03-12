@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Nikhil a Passionate Web Developer from India</h2>
+<center><h2 align="center" align="left">Hi 👋! I'm Nikhil a Passionate Web Developer from India</h2></center>
 
 ###
 
